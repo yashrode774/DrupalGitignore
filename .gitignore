@@ -1,0 +1,14 @@
+.gitignore
+/vendor
+/sites
+/libraries
+/modules
+/_modules
+/themes
+/profiles
+console.phar
+core/phpunit.xml
+core/.phpunit.result.cache
+.phpunit.result.cache
+drush
+.envrc
